@@ -1,4 +1,4 @@
-# Projeto Astro-day ⭐ 
+# Projeto Meus Repositórios do GitHub  🔍
 
 Este projeto foi realizado com o objetivo de fixar os conhecimentos básicos de React JS, criando o ambiente e componentes necessários para renderizar uma página simples, consumindo a API do Github e utilizando um input para filtrar os repositórios disponíveis.
 
