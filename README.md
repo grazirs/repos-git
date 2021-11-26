@@ -4,7 +4,7 @@ Este projeto foi realizado com o objetivo de fixar os conhecimentos básicos de 
 
 ## Passo a Passo de como criei este projeto com React JS
 
-- Criei um projeto react: yarn create react-app astronomy-picture;
+- Criei um projeto react;
 - Quando apareceu Happy Hacking, significa que foi criado com sucesso;
 - Apaguei as informações default, como imagens, arquivos, tags, que não foram utilizadas;
 - Criei os componentes: title, input, que foram renderizados por children;
